@@ -5,7 +5,7 @@
 
 
 def main():
-   num = int(input("Posa el valor:")):
+   num = int(input("Posa el valo:")):
    for x in range(1,num):
         print(x, end=",")
 
